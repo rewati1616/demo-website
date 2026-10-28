@@ -1,0 +1,22 @@
+{
+  "name": "deluxe-solution-fullstack",
+  "version": "1.0.0",
+  "description": "Deluxe Solution — Professional Business Website & Repair Management System",
+  "scripts": {
+    "install:all": "npm --prefix client install && npm --prefix server install",
+    "build:client": "npm --prefix client run build",
+    "start:server": "npm --prefix server start",
+    "start": "npm --prefix server start",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev"
+  },
+  "keywords": [
+    "deluxe-solution",
+    "computer-repair",
+    "cctv-repair",
+    "currency-counting-machine",
+    "pune"
+  ],
+  "author": "Deluxe Solution",
+  "license": "ISC"
+}

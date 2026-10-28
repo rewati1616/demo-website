@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deluxe Solution — Professional Business Website & Repair Management System
 
 > Production-ready website and repair management platform for **Deluxe Solution**, a computer, laptop, CCTV surveillance, printer, and currency counting machine technical service center located on **Sinhgad Road, Pune, Maharashtra, India**.
@@ -222,3 +223,7 @@ The website has been built using authentic verified information from Deluxe Solu
 2. **Holiday / Sunday Hours:** Shop hours are configured as 10:00 AM – 7:00 PM (Monday to Sunday). Please confirm if Sunday operations have restricted hours or if advance booking is required.
 3. **Admin Password:** Remember to change `ADMIN_PASSWORD` in `server/.env` before deploying to public hosting.
 4. **Custom Domain:** When linking to the final production domain (e.g. `deluxe-solution.com`), update `og:url` and `sitemap.xml` accordingly.
+=======
+# demo-website
+demo Website 
+>>>>>>> c69c30bad334569a817ca59aae4e29d31bbe061b
